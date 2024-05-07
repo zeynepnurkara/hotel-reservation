@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/hotelreservation"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="app.cash.sqldelight.sqlite.json.module" value="project"/>
+		<level name="net.rumati.sql.sqlblocks" value="project"/>
+		<level name="mysql.connector.j" value="project"/>
+	</levels>
+</component>

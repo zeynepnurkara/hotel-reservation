@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="net.rumati.sql.sqlblocks" type="repository">
+    <properties maven-id="net.rumati.sql:sqlblocks:1.0.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sqlblocks-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
